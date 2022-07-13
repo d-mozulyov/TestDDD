@@ -1,0 +1,4 @@
+[submodule "dep2"]
+	path = dep2
+	url = https://github.com/d-mozulyov/Test2.git
+	branch = branch
